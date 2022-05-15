@@ -1,6 +1,6 @@
 # Sending and receiving data from the cloud using ESP32.
 
-In this task we are going to measure temperature and hall voltage using ESP32, and observe its plot versus time on our thingspeak account.
+In this task we are going to measure temperature and hall voltage using ESP32, and observe its plot of received value versus time on our thingspeak account.
 
 **Hall effect sensor :**- It is a built-in sensor in ESP32. It  detects the presence and measures the magnitude of magnetic effect using Hall effect. Hall effect principle is, “output voltage is directly proportional to strength of the field.” Principle of working of this sensor: current is applied to a thin strip of metal. In the presence of magnetic field, perpendicular to the direction of current, charge carriers are deflected by Lorentz force, producing a difference in voltage between 2 sides of strips.”
 
